@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently working on **Php laravel**
 
-- 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/1xe7L8SOWqJpYo_pfEuXvLNFs8wgwV4ZjXhSGtBQQass/edit?usp=sharing](https://docs.google.com/document/d/1xe7L8SOWqJpYo_pfEuXvLNFs8wgwV4ZjXhSGtBQQass/edit?usp=sharing)
-
 - 💬 Ask me about **React, Next.js, Node JS**
 
 - 📫 How to reach me **kami302716@gmail.com**
