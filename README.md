@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **React Native, NodeJs**
 
-- 💬 Ask me about **React, Next.js, Node JS**
+- 💬 Ask me about **React, Next.js, Node JS, React Native**
 
 - 📫 How to reach me **kami302716@gmail.com**
 
