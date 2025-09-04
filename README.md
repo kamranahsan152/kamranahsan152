@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranahsan152&label=Profile%20views&color=0e75b6&style=flat" alt="kamranahsan152" /> </p>
 
-- 🌱 I’m currently working on **Next JS**
+- 🌱 I’m currently working on **React Native, NodeJs**
 
 - 💬 Ask me about **React, Next.js, Node JS**
 
