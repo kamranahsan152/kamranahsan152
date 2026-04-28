@@ -55,18 +55,21 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamranahsan152&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamranahsan152&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranahsan152&layout=compact&theme=tokyonight" />
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kamranahsan152&show_icons=true&theme=default&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamranahsan152&theme=default&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranahsan152&layout=compact&theme=default&hide_border=true" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🧩 Projects & Focus
