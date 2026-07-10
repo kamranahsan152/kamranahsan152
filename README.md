@@ -101,7 +101,4 @@ contact:      kami302716@gmail.com
   <img width="49%" src="https://streak-stats.demolab.com?user=kamranahsan152&hide_border=true&background=ffffff&border=e4e2e2&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=333333&sideNums=333333&currStreakNum=333333&dates=767676" />
 </p>
 
-<!-- ===== FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
-
 <p align="center"><b>⭐️ Thanks for stopping by — Kamran Ahsan</b></p>
