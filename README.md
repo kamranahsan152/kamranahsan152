@@ -100,15 +100,6 @@ contact:      kami302716@gmail.com
   <img width="60%" src="https://streak-stats.demolab.com?user=kamranahsan152&hide_border=true&background=ffffff&border=e4e2e2&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=333333&sideNums=333333&currStreakNum=333333&dates=767676" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranahsan152&layout=compact&hide_border=true&bg_color=ffffff&title_color=0e75b6&text_color=333333" />
-</p>
-
-<!-- ===== TROPHIES ===== -->
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=kamranahsan152&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
 <!-- ===== FOOTER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
 
