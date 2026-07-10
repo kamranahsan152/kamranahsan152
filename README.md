@@ -1,10 +1,10 @@
 <!-- ===== HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Kamran%20Ahsan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=56&descSize=18&descColor=e0e0e0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Kamran%20Ahsan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=56&descSize=18&descColor=e8f4fb" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/kamranahsan152">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F8FE7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+%2B+Real-time+Systems;Building+scalable%2C+high-performance+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+%2B+Real-time+Systems;Building+scalable%2C+high-performance+apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,15 +19,13 @@
   <a href="mailto:kami302716@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kamranahsan152&label=Profile%20views&color=6f8fe7&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kamranahsan152&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
 <br/>
 
 <!-- ===== ABOUT ===== -->
-<img align="right" width="38%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-### &nbsp; 👨‍💻 &nbsp; About Me
+### 👨‍💻 &nbsp; About Me
 
 ```yaml
 name:         Kamran Ahsan
@@ -42,7 +40,7 @@ contact:      kami302716@gmail.com
 - 💡 &nbsp; Focused on **scalable real-time systems**
 - 🌱 &nbsp; Always leveling up on architecture & performance
 
-<br clear="both"/>
+<br/>
 
 <!-- ===== TECH STACK ===== -->
 <h3 align="left">🛠️ &nbsp; Tech Stack</h3>
@@ -99,31 +97,20 @@ contact:      kami302716@gmail.com
 <h3 align="center">📊 &nbsp; GitHub Analytics</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamranahsan152&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6f8fe7&icon_color=6f8fe7&text_color=c9d1d9" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=kamranahsan152&theme=tokyonight&hide_border=true&background=0D1117&stroke=6f8fe7&ring=6f8fe7&fire=6f8fe7&currStreakLabel=6f8fe7" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamranahsan152&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=kamranahsan152&hide_border=true&background=ffffff&border=e4e2e2&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=333333&sideNums=333333&currStreakNum=333333&dates=767676" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranahsan152&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6f8fe7&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamranahsan152&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6f8fe7&line=6f8fe7&point=ffffff&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranahsan152&layout=compact&hide_border=true&bg_color=ffffff&title_color=0e75b6&text_color=333333" />
 </p>
 
 <!-- ===== TROPHIES ===== -->
 <p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=kamranahsan152&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
-<br/>
-
-<!-- ===== QUOTE ===== -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=kamranahsan152&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </p>
 
 <!-- ===== FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
 
 <p align="center"><b>⭐️ Thanks for stopping by — Kamran Ahsan</b></p>
