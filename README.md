@@ -99,6 +99,8 @@ contact:      kami302716@gmail.com
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamranahsan152&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333" />
 </p>
+
+<!-- ===== FOOTER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
 
 <p align="center"><b>⭐️ Thanks for stopping by — Kamran Ahsan</b></p>
