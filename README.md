@@ -100,7 +100,7 @@ contact:      kami302716@gmail.com
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamranahsan152&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6f8fe7&icon_color=6f8fe7&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=kamranahsan152&theme=tokyonight&hide_border=true&background=0D1117&stroke=6f8fe7&ring=6f8fe7&fire=6f8fe7&currStreakLabel=6f8fe7" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=kamranahsan152&theme=tokyonight&hide_border=true&background=0D1117&stroke=6f8fe7&ring=6f8fe7&fire=6f8fe7&currStreakLabel=6f8fe7" />
 </p>
 
 <p align="center">
