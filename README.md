@@ -1,91 +1,129 @@
-<h1 align="center">Hi 👋, I'm Kamran Ahsan</h1>
-<h3 align="center">Full Stack Developer — building scalable web & mobile apps</h3>
+<!-- ===== HEADER BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Kamran%20Ahsan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=56&descSize=18&descColor=e0e0e0" />
 
+<!-- ===== TYPING ANIMATION ===== -->
+<p align="center">
+  <a href="https://github.com/kamranahsan152">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F8FE7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+%2B+Real-time+Systems;Building+scalable%2C+high-performance+apps" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ===== SOCIAL BADGES ===== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kamranahsan152/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/kamrannahsan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:kami302716@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=kamranahsan152&label=Profile%20views&color=6f8fe7&style=flat-square" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamranahsan152&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<br/>
 
----
+<!-- ===== ABOUT ===== -->
+<img align="right" width="38%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-### About Me
+### &nbsp; 👨‍💻 &nbsp; About Me
 
-- 🔭 Currently building with **React Native & Node.js**
-- 💡 Focused on **scalable, real-time, high-performance systems**
-- 💬 Happy to talk **React · Next.js · Node.js · React Native**
+```yaml
+name:         Kamran Ahsan
+role:         Full Stack Developer
+focus:        React Native · Node.js
+building:     scalable, real-time, high-performance apps
+ask_me_about: [React, Next.js, Node.js, React Native]
+contact:      kami302716@gmail.com
+```
 
----
+- 🔭 &nbsp; Currently building with **React Native & Node.js**
+- 💡 &nbsp; Focused on **scalable real-time systems**
+- 🌱 &nbsp; Always leveling up on architecture & performance
 
-### Tech Stack
+<br clear="both"/>
+
+<!-- ===== TECH STACK ===== -->
+<h3 align="left">🛠️ &nbsp; Tech Stack</h3>
 
 **Frontend**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 **Backend**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,spring" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
 **Databases**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 **Tools & DevOps**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,firebase,git,postman,figma" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
+<br/>
 
-### What I Build
+<!-- ===== WHAT I BUILD ===== -->
+<h3 align="left">🚀 &nbsp; What I Build</h3>
 
-- ⚡ Real-time chat systems with **Socket.io**
-- 📊 Data dashboards & analytics with **ApexCharts**
-- 🔁 Scalable backend APIs with **Prisma** & **Node.js**
-- 📱 Cross-platform mobile apps with **React Native**
+- ⚡ &nbsp; Real-time chat systems with **Socket.io**
+- 📊 &nbsp; Data dashboards & analytics with **ApexCharts**
+- 🔁 &nbsp; Scalable backend APIs with **Prisma** & **Node.js**
+- 📱 &nbsp; Cross-platform mobile apps with **React Native**
 
----
+<br/>
 
-### GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kamranahsan152&show_icons=true&theme=default&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamranahsan152&theme=default&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranahsan152&layout=compact&theme=default&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
----
+<!-- ===== GITHUB STATS ===== -->
+<h3 align="center">📊 &nbsp; GitHub Analytics</h3>
 
 <p align="center">
-  <i>I love building real-time systems and high-performance apps.</i>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamranahsan152&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6f8fe7&icon_color=6f8fe7&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=kamranahsan152&theme=tokyonight&hide_border=true&background=0D1117&stroke=6f8fe7&ring=6f8fe7&fire=6f8fe7&currStreakLabel=6f8fe7" />
 </p>
 
-<p align="center">⭐️ From <b>Kamran Ahsan</b></p>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranahsan152&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6f8fe7&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamranahsan152&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6f8fe7&line=6f8fe7&point=ffffff&area=true" />
+</p>
+
+<!-- ===== TROPHIES ===== -->
+<p align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=kamranahsan152&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+</p>
+
+<br/>
+
+<!-- ===== QUOTE ===== -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<!-- ===== FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
+
+<p align="center"><b>⭐️ Thanks for stopping by — Kamran Ahsan</b></p>
