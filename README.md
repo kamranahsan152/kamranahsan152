@@ -1,17 +1,17 @@
 <a href="https://kamran-portfollio.vercel.app/">
-  <img src="./assets/hero.svg" width="100%" alt="Kamran Ahsan — Full Stack Developer. React, Next.js, Node.js, React Native, TypeScript." />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" /><img src="./assets/hero.svg" width="100%" alt="Kamran Ahsan — Full Stack Developer. React, Next.js, Node.js, React Native, TypeScript." /></picture>
 </a>
 
 <p align="center">
-  <a href="https://kamran-portfollio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0F1A?style=for-the-badge&logo=googlechrome&logoColor=A855F7" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/kamranahsan152/"><img src="https://img.shields.io/badge/LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:kami302716@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F1A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://instagram.com/kamrannahsan"><img src="https://img.shields.io/badge/Instagram-0B0F1A?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="https://kamran-portfollio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kamranahsan152/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kami302716@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/kamrannahsan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <br/>
 
-<img src="./assets/sections/about.svg" width="100%" alt="01 · About Me" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sections/about-dark.svg" /><img src="./assets/sections/about.svg" width="100%" alt="01 · About Me" /></picture>
 
 <table>
 <tr>
@@ -32,87 +32,87 @@
 
 <br/>
 
-<img src="./assets/sections/stack.svg" width="100%" alt="02 · Tech Stack" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sections/stack-dark.svg" /><img src="./assets/sections/stack.svg" width="100%" alt="02 · Tech Stack" /></picture>
 
 <table>
 <tr>
 <td width="140"><b>Frontend</b></td>
 <td>
-<img src="https://img.shields.io/badge/React-0B0F1A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-0B0F1A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-0B0F1A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-0B0F1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Tailwind-0B0F1A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Redux-0B0F1A?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" />
+<img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </td>
 </tr>
 <tr>
 <td><b>Mobile</b></td>
 <td>
-<img src="https://img.shields.io/badge/React_Native-0B0F1A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Firebase-0B0F1A?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
 <td>
-<img src="https://img.shields.io/badge/Node.js-0B0F1A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-0B0F1A?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/Prisma-0B0F1A?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-<img src="https://img.shields.io/badge/Socket.io-0B0F1A?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-<img src="https://img.shields.io/badge/PHP-0B0F1A?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-<img src="https://img.shields.io/badge/Spring-0B0F1A?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 </td>
 </tr>
 <tr>
 <td><b>Databases</b></td>
 <td>
-<img src="https://img.shields.io/badge/MongoDB-0B0F1A?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-0B0F1A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-0B0F1A?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/Redis-0B0F1A?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </td>
 </tr>
 <tr>
 <td><b>Tools</b></td>
 <td>
-<img src="https://img.shields.io/badge/Docker-0B0F1A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-0B0F1A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/Postman-0B0F1A?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
-<img src="https://img.shields.io/badge/Figma-0B0F1A?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="./assets/sections/build.svg" width="100%" alt="03 · What I Build" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sections/build-dark.svg" /><img src="./assets/sections/build.svg" width="100%" alt="03 · What I Build" /></picture>
 
-<img src="./assets/build.svg" width="100%" alt="Real-time systems · Dashboards & analytics · Scalable backend APIs · Cross-platform mobile apps" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/build-dark.svg" /><img src="./assets/build.svg" width="100%" alt="Real-time systems · Dashboards & analytics · Scalable backend APIs · Cross-platform mobile apps" /></picture>
 
 <br/><br/>
 
-<img src="./assets/sections/activity.svg" width="100%" alt="04 · GitHub Activity" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sections/activity-dark.svg" /><img src="./assets/sections/activity.svg" width="100%" alt="04 · GitHub Activity" /></picture>
 
 <p align="center">
-  <img src="./assets/cards/stats.svg" width="55%" alt="GitHub stats" />
-  <img src="./assets/cards/languages.svg" width="44%" alt="Top languages" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/stats-dark.svg" /><img src="./assets/cards/stats.svg" width="55%" alt="GitHub stats" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/languages-dark.svg" /><img src="./assets/cards/languages.svg" width="44%" alt="Top languages" /></picture>
 </p>
 
 <p align="center">
-  <img src="./assets/cards/streak.svg" width="100%" alt="Contribution streak" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/streak-dark.svg" /><img src="./assets/cards/streak.svg" width="100%" alt="Contribution streak" /></picture>
 </p>
 
 <p align="center">
-  <img src="./assets/cards/snake.svg" width="100%" alt="Contribution snake" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/snake-dark.svg" /><img src="./assets/cards/snake.svg" width="100%" alt="Contribution snake" /></picture>
 </p>
 
 <br/>
 
-<img src="./assets/sections/connect.svg" width="100%" alt="05 · Let's Connect" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sections/connect-dark.svg" /><img src="./assets/sections/connect.svg" width="100%" alt="05 · Let's Connect" /></picture>
 
 <a href="https://kamran-portfollio.vercel.app/">
-  <img src="./assets/cta.svg" width="100%" alt="Let's build something great together — View Portfolio" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cta-dark.svg" /><img src="./assets/cta.svg" width="100%" alt="Let's build something great together — View Portfolio" /></picture>
 </a>
 
 <p align="center">

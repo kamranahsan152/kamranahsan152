@@ -7,6 +7,6 @@
 <rect x="0" y="-50" width="120" height="300" fill="#fff" fill-opacity=".14" transform="skewX(-20)" style="animation:sh 4s ease-in-out infinite"/></g>
 <text x="64" y="88" font-size="38" font-weight="800" fill="#fff" letter-spacing="-1">Let's build something great together.</text>
 <text x="64" y="126" font-size="18" fill="#fff" fill-opacity=".85">Explore my work, case studies &amp; live projects on my portfolio.</text>
-<rect x="890" y="66" width="250" height="64" rx="32" fill="#0B0F1A"/>
-<text x="1015" y="105" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">View Portfolio  →</text>
+<rect x="890" y="66" width="250" height="64" rx="32" fill="#FFFFFF"/>
+<text x="1015" y="105" font-size="19" font-weight="700" fill="#4F46E5" text-anchor="middle">View Portfolio  →</text>
 </svg>
