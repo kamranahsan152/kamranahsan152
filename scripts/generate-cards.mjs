@@ -8,12 +8,20 @@ const TOKEN = process.env.GITHUB_TOKEN;
 const DEMO = process.argv.includes("--demo");
 const OUT = "assets/cards";
 
-// ── Palette ──────────────────────────────────────────────────────────────
-const C = {
-  bg: "#FFFFFF", panel: "#F7F8FD", line: "#E2E6F3", cell: "#EBEEF6",
-  text: "#0F172A", muted: "#64748B",
-  a: "#4F46E5", b: "#7C3AED", c: "#DB2777",
+// ── Palettes (light → name.svg, dark → name-dark.svg) ─────────────────────
+const THEMES = {
+  "": {
+    bg: "#FFFFFF", panel: "#F7F8FD", line: "#E2E6F3", cell: "#EBEEF6",
+    text: "#0F172A", muted: "#64748B", border: `stroke="#E2E6F3"`, glow: ".08",
+    a: "#4F46E5", b: "#7C3AED", c: "#DB2777",
+  },
+  "-dark": {
+    bg: "#0B0F1A", panel: "#111729", line: "#1F2740", cell: "#111729",
+    text: "#E6E9F5", muted: "#8A93B2", border: `stroke="url(#g)" stroke-opacity=".55"`, glow: ".22",
+    a: "#6366F1", b: "#A855F7", c: "#EC4899",
+  },
 };
+let C = THEMES[""];
 const FONT = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif";
 
 // ── Data ─────────────────────────────────────────────────────────────────
@@ -85,13 +93,13 @@ function frame(w, h, title, body) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" font-family="${FONT}">
 <defs>
   <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="${C.a}"/><stop offset=".5" stop-color="${C.b}"/><stop offset="1" stop-color="${C.c}"/></linearGradient>
-  <radialGradient id="glow" cx="1" cy="0" r="1"><stop offset="0" stop-color="${C.b}" stop-opacity=".08"/><stop offset="1" stop-color="${C.b}" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow" cx="1" cy="0" r="1"><stop offset="0" stop-color="${C.b}" stop-opacity="${C.glow}"/><stop offset="1" stop-color="${C.b}" stop-opacity="0"/></radialGradient>
 </defs>
 <style>
   .t{fill:${C.text}} .m{fill:${C.muted}} .f{opacity:0;animation:in .6s ease forwards}
   @keyframes in{to{opacity:1}} @keyframes grow{from{transform:scaleX(0)}}
 </style>
-<rect x=".5" y=".5" width="${w - 1}" height="${h - 1}" rx="16" fill="${C.bg}" stroke="${C.line}"/>
+<rect x=".5" y=".5" width="${w - 1}" height="${h - 1}" rx="16" fill="${C.bg}" ${C.border}/>
 <rect x=".5" y=".5" width="${w - 1}" height="${h - 1}" rx="16" fill="url(#glow)"/>
 <text x="28" y="40" class="t" font-size="17" font-weight="700">${esc(title)}</text>
 <rect x="28" y="52" width="36" height="3" rx="1.5" fill="url(#g)"/>
@@ -176,7 +184,10 @@ ${stat(252, "Contributions", fmt(d.total), "past 12 months")}
 const data = DEMO || !TOKEN ? demoData() : await fetchData();
 if (!DEMO && !TOKEN) console.warn("No GITHUB_TOKEN — using demo data.");
 mkdirSync(OUT, { recursive: true });
-writeFileSync(`${OUT}/stats.svg`, statsCard(data));
-writeFileSync(`${OUT}/languages.svg`, langCard(data));
-writeFileSync(`${OUT}/streak.svg`, streakCard(data));
+for (const [suffix, palette] of Object.entries(THEMES)) {
+  C = palette;
+  writeFileSync(`${OUT}/stats${suffix}.svg`, statsCard(data));
+  writeFileSync(`${OUT}/languages${suffix}.svg`, langCard(data));
+  writeFileSync(`${OUT}/streak${suffix}.svg`, streakCard(data));
+}
 console.log("Cards written to", OUT);

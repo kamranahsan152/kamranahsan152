@@ -1,5 +1,5 @@
 <a href="https://kamran-portfollio.vercel.app/">
-  <img src="./assets/hero.svg" width="100%" alt="Kamran Ahsan — Full Stack Developer. React, Next.js, Node.js, React Native, TypeScript." />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" /><img src="./assets/hero.svg" width="100%" alt="Kamran Ahsan — Full Stack Developer. React, Next.js, Node.js, React Native, TypeScript." /></picture>
 </a>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="./assets/sections/about.svg" width="100%" alt="01 · About Me" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sections/about-dark.svg" /><img src="./assets/sections/about.svg" width="100%" alt="01 · About Me" /></picture>
 
 <table>
 <tr>
@@ -32,7 +32,7 @@
 
 <br/>
 
-<img src="./assets/sections/stack.svg" width="100%" alt="02 · Tech Stack" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sections/stack-dark.svg" /><img src="./assets/sections/stack.svg" width="100%" alt="02 · Tech Stack" /></picture>
 
 <table>
 <tr>
@@ -86,33 +86,33 @@
 
 <br/>
 
-<img src="./assets/sections/build.svg" width="100%" alt="03 · What I Build" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sections/build-dark.svg" /><img src="./assets/sections/build.svg" width="100%" alt="03 · What I Build" /></picture>
 
-<img src="./assets/build.svg" width="100%" alt="Real-time systems · Dashboards & analytics · Scalable backend APIs · Cross-platform mobile apps" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/build-dark.svg" /><img src="./assets/build.svg" width="100%" alt="Real-time systems · Dashboards & analytics · Scalable backend APIs · Cross-platform mobile apps" /></picture>
 
 <br/><br/>
 
-<img src="./assets/sections/activity.svg" width="100%" alt="04 · GitHub Activity" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sections/activity-dark.svg" /><img src="./assets/sections/activity.svg" width="100%" alt="04 · GitHub Activity" /></picture>
 
 <p align="center">
-  <img src="./assets/cards/stats.svg" width="55%" alt="GitHub stats" />
-  <img src="./assets/cards/languages.svg" width="44%" alt="Top languages" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/stats-dark.svg" /><img src="./assets/cards/stats.svg" width="55%" alt="GitHub stats" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/languages-dark.svg" /><img src="./assets/cards/languages.svg" width="44%" alt="Top languages" /></picture>
 </p>
 
 <p align="center">
-  <img src="./assets/cards/streak.svg" width="100%" alt="Contribution streak" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/streak-dark.svg" /><img src="./assets/cards/streak.svg" width="100%" alt="Contribution streak" /></picture>
 </p>
 
 <p align="center">
-  <img src="./assets/cards/snake.svg" width="100%" alt="Contribution snake" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/snake-dark.svg" /><img src="./assets/cards/snake.svg" width="100%" alt="Contribution snake" /></picture>
 </p>
 
 <br/>
 
-<img src="./assets/sections/connect.svg" width="100%" alt="05 · Let's Connect" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sections/connect-dark.svg" /><img src="./assets/sections/connect.svg" width="100%" alt="05 · Let's Connect" /></picture>
 
 <a href="https://kamran-portfollio.vercel.app/">
-  <img src="./assets/cta.svg" width="100%" alt="Let's build something great together — View Portfolio" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cta-dark.svg" /><img src="./assets/cta.svg" width="100%" alt="Let's build something great together — View Portfolio" /></picture>
 </a>
 
 <p align="center">
