@@ -1,191 +1,177 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            HEADER · HERO BANNER                           -->
+<!--        MATERIAL DESIGN PROFILE · Kamran Ahsan                            -->
+<!--        Palette: Indigo #3F51B5 · Deep Purple #673AB7 · Pink A200 #FF4081 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!-- ───────────────────────────  APP BAR / HERO  ─────────────────────────── -->
 
 <a href="https://kamran-portfollio.vercel.app/">
-  <img width="100%" alt="Kamran Ahsan — Full Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:0EA5E9&height=220&section=header&text=Kamran%20Ahsan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20Native&descAlignY=58&descSize=16&descColor=E0E7FF" />
+  <img width="100%" alt="Kamran Ahsan — Full Stack Developer" src="https://capsule-render.vercel.app/api?type=rect&color=0:3F51B5,100:673AB7&height=170&section=header&text=Kamran%20Ahsan&fontSize=54&fontColor=ffffff&fontAlignY=50&desc=Full%20Stack%20Developer&descAlignY=76&descSize=20&descColor=C5CAE9" />
 </a>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            TYPING ANIMATION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ───────────────────────────  TYPING CHIP  ────────────────────────────── -->
 
 <p align="center">
   <a href="https://kamran-portfollio.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;React+Native+%2B+Real-time+Systems;Building+scalable%2C+high-performance+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&pause=1200&color=3F51B5&center=true&vCenter=true&width=620&height=46&lines=React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;React+Native+%2B+Real-time+Systems;Building+scalable%2C+high-performance+apps" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            SOCIAL · CONNECT                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ───────────────────────────  CONTACT CHIPS  ──────────────────────────── -->
 
 <p align="center">
   <a href="https://kamran-portfollio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-3F51B5?style=flat-square&logo=vercel&logoColor=white" height="30" alt="Portfolio" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/kamranahsan152/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-3F51B5?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="https://instagram.com/kamrannahsan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-3F51B5?style=flat-square&logo=instagram&logoColor=white" height="30" alt="Instagram" />
+  </a>&nbsp;
   <a href="mailto:kami302716@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-3F51B5?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamranahsan152&label=Profile%20Views&color=7C3AED&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/Based%20in-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-0EA5E9?style=flat-square" alt="location" />
+  <img src="https://komarev.com/ghpvc/?username=kamranahsan152&label=Profile%20Views&color=FF4081&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Based%20in-Pakistan-FF4081?style=flat-square" alt="location" />
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                               ABOUT ME                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════  CARD · ABOUT  ═══════════════════════════ -->
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
+<table width="100%">
+<tr><td>
 
-### 👋 &nbsp; About Me
+### &nbsp; 👤 &nbsp; About Me
 
-I'm a **Full Stack Developer** who turns ideas into fast, reliable products — from pixel-perfect frontends to real-time backends that scale.
+> &nbsp;
+> I'm a **Full Stack Developer** who turns ideas into fast, reliable products — from
+> pixel-perfect frontends to real-time backends that scale.
+> &nbsp;
+> 🔭 &nbsp; Currently building with **React Native** & **Node.js**
+> 💡 &nbsp; Focused on **scalable, real-time, high-performance systems**
+> ⚡ &nbsp; I care about clean architecture, smooth UX, and shipping
+> 🌱 &nbsp; Always leveling up on performance & system design
+> 📫 &nbsp; **kami302716@gmail.com** &nbsp;·&nbsp; 🌐 **[kamran-portfollio.vercel.app](https://kamran-portfollio.vercel.app/)**
+> &nbsp;
 
-- 🔭 &nbsp; Currently building with **React Native** & **Node.js**
-- 💡 &nbsp; Focused on **scalable, real-time, high-performance systems**
-- ⚡ &nbsp; I love clean architecture, smooth UX, and shipping
-- 🌱 &nbsp; Always leveling up on performance & system design
-- 📫 &nbsp; Reach me → **kami302716@gmail.com**
-- 🌐 &nbsp; Portfolio → **[kamran-portfollio.vercel.app](https://kamran-portfollio.vercel.app/)**
-
-<br clear="right"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                              TECH STACK                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-### 🛠️ &nbsp; Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-**💻 &nbsp;Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-</td>
-    <td valign="top" width="50%">
-
-**⚙️ &nbsp;Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</p>
-
-</td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-
-**🗄️ &nbsp;Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-</td>
-    <td valign="top" width="50%">
-
-**🚀 &nbsp;Tools & DevOps**
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-</td>
-  </tr>
+</td></tr>
 </table>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                             WHAT I BUILD                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════  CARD · TECH STACK  ══════════════════════ -->
 
-### 🚀 &nbsp; What I Build
+### &nbsp; 🧩 &nbsp; Tech Stack
 
-> ⚡ &nbsp; **Real-time chat & collaboration** — low-latency systems powered by Socket.io
-> 📊 &nbsp; **Data dashboards & analytics** — rich, interactive charts with ApexCharts
-> 🔁 &nbsp; **Scalable backend APIs** — clean, typed services with Prisma & Node.js
-> 📱 &nbsp; **Cross-platform mobile apps** — one codebase, native feel, with React Native
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+#### &nbsp;💻&nbsp; Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="28" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="28" />
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+#### &nbsp;⚙️&nbsp; Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" height="28" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### &nbsp;🗄️&nbsp; Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="28" />
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+#### &nbsp;🚀&nbsp; Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="28" />
+</p>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           GITHUB ANALYTICS                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════  CARD · WHAT I BUILD  ════════════════════ -->
 
-### 📊 &nbsp; GitHub Analytics
+### &nbsp; 🛠️ &nbsp; What I Build
+
+<table width="100%">
+<tr>
+<td width="50%">⚡ &nbsp; <b>Real-time chat & collaboration</b><br/><sub>Low-latency systems powered by Socket.io</sub></td>
+<td width="50%">📊 &nbsp; <b>Data dashboards & analytics</b><br/><sub>Interactive charts with ApexCharts</sub></td>
+</tr>
+<tr>
+<td width="50%">🔁 &nbsp; <b>Scalable backend APIs</b><br/><sub>Clean, typed services with Prisma & Node.js</sub></td>
+<td width="50%">📱 &nbsp; <b>Cross-platform mobile apps</b><br/><sub>One codebase, native feel, React Native</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════  CARD · ANALYTICS  ═══════════════════════ -->
+
+### &nbsp; 📈 &nbsp; GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamranahsan152&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=0EA5E9&text_color=8B949E&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranahsan152&layout=compact&hide_border=true&title_color=7C3AED&text_color=8B949E&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=kamranahsan152&hide_border=true&background=FFFFFF&stroke=3F51B5&ring=FF4081&fire=FF4081&currStreakLabel=3F51B5&sideLabels=546E7A&sideNums=3F51B5&currStreakNum=263238&dates=90A4AE&dayNums=546E7A" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=kamranahsan152&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=0EA5E9&currStreakLabel=7C3AED&sideLabels=8B949E&sideNums=8B949E&currStreakNum=FFFFFF&dates=484F58&dayNums=8B949E" alt="GitHub Streak" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamranahsan152&bg_color=FFFFFF&color=3F51B5&line=FF4081&point=673AB7&area=true&area_color=C5CAE9&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamranahsan152&bg_color=0D1117&color=7C3AED&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                               TROPHIES                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=kamranahsan152&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=kamranahsan152&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                                FOOTER                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
+<!-- ═══════════════════════════  FAB · PORTFOLIO  ════════════════════════ -->
 
 <p align="center">
   <a href="https://kamran-portfollio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%9C%A8%20Explore%20My%20Portfolio-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio CTA" />
+    <img src="https://img.shields.io/badge/%E2%9C%A8%20VIEW%20MY%20PORTFOLIO-FF4081?style=for-the-badge&logoColor=white" alt="Portfolio CTA" />
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:4F46E5&height=120&section=footer" />
+<!-- ───────────────────────────  BOTTOM BAR  ─────────────────────────────── -->
 
-<p align="center"><b>⭐️ &nbsp;Thanks for visiting — let's build something great together!</b></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:673AB7,100:3F51B5&height=70&section=footer" />
+
+<p align="center"><sub><b>⭐️ Thanks for visiting — let's build something great together!</b></sub></p>
